@@ -14,7 +14,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="BepInEx.IL2CPP" Version="6.0.0-be.572" IncludeAssets="compile" />
+        <PackageReference Include="BepInEx.IL2CPP" Version="v6.0.0-pre.2" IncludeAssets="compile" />
         <PackageReference Include="BepInEx.PluginInfoProps" Version="1.1.0" />
     </ItemGroup>
 
